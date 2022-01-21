@@ -22,7 +22,7 @@
 ### **The Python codes that were used in this project:**
 ### [PyCitySchools_Challenge](https://github.com/davidzachie/Module4-School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb)
 
-### **How is the district summary affected?
+### **How is the district summary affected?**
 
 ![Pyschool](Resources/District_1.png) 
 
@@ -31,17 +31,21 @@
 ### The district summary was barely affected by the correction made:
 ### - The average Math Score decreased by 0.1 point to 78.9.
 ### - The % Passing Math decreased by 0.2% to 74.8%.
+### - The average Reading Score did not change.
+### - The % Passing Reading decreased by 0.1% to 85.7%.
 ### - The % Overall Passing decreased by 0.3% to 64.9%.
 
-### **How is the school summary affected?
+### **How is the school summary affected?**
 
-### **How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+
+
+### **How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?**
 
 ### **How does replacing the ninth-grade scores affect the following:
-Math and reading scores by grade
-Scores by school spending
-Scores by school size
-Scores by school type
+### - Math and reading scores by grade
+### - Scores by school spending
+### - Scores by school size
+### - Scores by school type
 
 
 
