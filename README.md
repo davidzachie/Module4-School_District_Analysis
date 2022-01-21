@@ -29,7 +29,7 @@
 ![Pyschool](Resources/District_2.png) 
 
 ### The district summary was barely affected by the correction made:
-### - The average Math Score decreased by 0.1 point to 78.9.
+### - The average Math Score decreased by 0.1% to 78.9%.
 ### - The % Passing Math decreased by 0.2% to 74.8%.
 ### - The average Reading Score did not change.
 ### - The % Passing Reading decreased by 0.1% to 85.7%.
