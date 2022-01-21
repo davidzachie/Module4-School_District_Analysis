@@ -37,7 +37,15 @@
 
 ### **How is the school summary affected?**
 
+![Pyschool](Resources/School_1.png) 
 
+![Pyschool](Resources/School_2.png)
+
+### The school summary was slightly affected by the correction made:
+### - The average Reading Score increased by 0.1 point to 83.9.
+### - The % Passing Math decreased by 0.1% to 93.2%.
+### - The % Passing Math decreased by 0.3% to 97.0%.
+### - The % Overall Passing decreased by 0.3% to 90.6%.
 
 ### **How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?**
 
