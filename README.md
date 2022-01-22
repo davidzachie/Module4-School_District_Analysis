@@ -60,7 +60,8 @@
 
 #### - Math and reading scores by grade
 
-![Pyschool](Resources/Math_Grade.png)       ![Pyschool](Resources/Reading_Grade.png)
+![Pyschool](Resources/Math_Grade.png)
+![Pyschool](Resources/Reading_Grade.png)
 
 The average math and reading scores for Thomas High School ninth graders show as NaN on the math and reading scores by grade summary.
 
