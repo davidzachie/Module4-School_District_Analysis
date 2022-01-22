@@ -86,3 +86,9 @@
 #### There is change to the scores by school type summary after correction.
 
 ## **Summary**
+
+#### The four major changes that occurred is the number of total students, the number of students counted at Thomas High School, the average math and reading scores, and the overall percentages for math and reading at Thomas High School. The removal of data implies a decrease in the count of total students overall, and total students at Thomas High School, specifically for this analysis. And since the population amount was decreased, this leads to a change in average scores and score percentages. Due to the fact that these score and percentage changes were minimal, we can assume that the removal of math and reading scores of 9th graders at Thomas High School not as significant as we would imagine it to be.
+
+#### Replacing the math and reading scores did not create major changes to the school district analysis.
+#### The Scores by Grade Summary for Thomas High School changed and displays NaN values for its ninth-grade's math and reading scores.
+#### The following metrics were slightly affected by the correction: the district summary, the school summary for Thomas High School, the scores by school spending and the scores by school size summaries.
