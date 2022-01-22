@@ -1,5 +1,5 @@
 # **Module4-School_District_Analysis**
-# **Module 4 PyCitySchools with Pandas**
+# **Module 4 PyCitySchools with Pandas / Python**
 
 ## **Project Overview**
 
@@ -73,6 +73,12 @@
 #### The only changes are on the $630-644 range where the % Passing Reading and the % Overall Passing both dropped by 0.1% to respectively 84.3% and 62.8%.
 
 #### - Scores by school size
+
+![Pyschool](Resources/Size_1.png)
+![Pyschool](Resources/Size_2.png)
+
+#### The only change is on the Medium size school range where the % Passing Reading dropped by 0.1% to 96.7%.
+
 #### - Scores by school type
 
 
