@@ -57,7 +57,13 @@
 #### Thomas High School’s performance relative to the other schools was not affected by the correction as shown by the 5 highest and 5 lowest performing schools ranking in the district.
 
 ### **How does replacing the ninth-grade scores affect the following:**
+
 #### - Math and reading scores by grade
+
+![Pyschool](Resources/Math_Grade.png)       ![Pyschool](Resources/Reading_Grade.png)
+
+The average math and reading scores for Thomas High School ninth graders show as NaN on the math and reading scores by grade summary.
+
 #### - Scores by school spending
 #### - Scores by school size
 #### - Scores by school type
