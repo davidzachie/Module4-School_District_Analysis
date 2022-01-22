@@ -83,7 +83,7 @@
 
 ![Pyschool](Resources/School_Type.png)
 
-#### There is change to the scores by school type summary after correction.
+#### There is no change to the scores by school type summary after correction.
 
 ## **Summary**
 
