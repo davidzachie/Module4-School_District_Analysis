@@ -63,9 +63,15 @@
 ![Pyschool](Resources/Math_Grade.png)
 ![Pyschool](Resources/Reading_Grade.png)
 
-The average math and reading scores for Thomas High School ninth graders show as NaN on the math and reading scores by grade summary.
+#### The average math and reading scores for Thomas High School ninth graders show as NaN on the math and reading scores by grade summary.
 
 #### - Scores by school spending
+
+![Pyschool](Resources/Spend_1.png)
+![Pyschool](Resources/Spend_2.png)
+
+#### The only changes are on the $630-644 range where the % Passing Reading and the % Overall Passing both dropped by 0.1% to respectively 84.3% and 62.8%.
+
 #### - Scores by school size
 #### - Scores by school type
 
